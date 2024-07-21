@@ -1,3 +1,8 @@
+/* *
+* Author: Pavith Bambaravanage
+* URL: https://github.com/Pavith19
+* */
+
 public class FactorialExample {
 
     // Recursive method to calculate factorial
