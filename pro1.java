@@ -1,5 +1,5 @@
 /* *
-* Author: Pavith Bambaravanage
+* Author: Pavith Bambaravanag
 * URL: https://github.com/Pavith19
 * */
 
